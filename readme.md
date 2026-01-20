@@ -4,7 +4,6 @@ This repository contains scripts to reproduce the figures used in the experiment
 
 ## Requirements
 - Python 3.x
-- Required Python packages (see source files if applicable)
 
 ## Reproducing the Figures
 
