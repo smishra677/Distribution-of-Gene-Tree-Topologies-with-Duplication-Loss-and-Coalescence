@@ -12,9 +12,9 @@ This repository contains scripts to reproduce the figures used in the experiment
 To generate **Figure 3**, run:
 ```bash
 python ./figure3.py
-
-
+```
 ### Figure 4
 To generate **Figure 4**, run:
 ```bash
 python ./figure4.py
+```
