@@ -36,9 +36,9 @@ python3 ./theory.py --ts 2 --output <DESTINATION>
 
 Replace `<DESTINATION>` with the desired output path.
 
-### Table 4: Empirical Branch Lengths from DupCoal Simulations
+### Table 4: Empirical Branch Lengths from dupcoal Simulations
 
-The empirical branch lengths are obtained by simulating gene trees using DupCoal with a fixed loss rate \(\mu=0\) and varying duplication rates \(\lambda\).
+The empirical branch lengths are obtained by simulating gene trees using dupcoal with a fixed loss rate \(\mu=0\) and varying duplication rates \(\lambda\).
 
 #### Step 1: Run the simulations
 
@@ -86,7 +86,7 @@ After completing the simulations, run:
 python3 ./extract_from_dupcoal.py
 ```
 
-This script extracts the branch lengths from the DupCoal simulation outputs for comparison with the theoretical expectations.
+This script extracts the branch lengths from the dupcoal simulation outputs for comparison with the theoretical expectations.
 
 ## Repository Contents
 
