@@ -104,5 +104,4 @@ This script extracts the branch lengths from the dupcoal simulation outputs for 
 - The default simulation settings use \(\mu=0\), \(t_s=2\), and 500,000 replicates per duplication-rate setting.
 - Run the simulations before executing `extract_from_dupcoal.py`.
 - Ensure that the output directory and filenames match the paths expected by the extraction script.
-- Simulation results may vary slightly between runs because of stochastic sampling.
 
